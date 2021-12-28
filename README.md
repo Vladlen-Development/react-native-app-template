@@ -2,7 +2,7 @@
 
 > Template for quick start react native project
 
-## Features
+## Includes
 
 - Theme and colors
 - Module architecture
@@ -11,9 +11,12 @@
 - Prettier
 - TypeScript
 - .env
+- Yarn
+- Redux-Toolkit
+- Domain JS
 
 ## Usage
 
 ```sh
-npx react-native init MyApp --template https://github.com/getgain-ru/react-native-template-typescript.git
+npx react-native init MyApp --template https://gitlab.com/getgain-public/libs/react-native-getgain-template
 ```
