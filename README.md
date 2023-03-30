@@ -2,6 +2,11 @@
 
 > Template for quick start react native project
 
+## TODO
+- [ ] Add husky library
+- [x] Update to react-native 0.71
+- [x] Bug fixes
+
 ## Includes
 
 - Theme and colors
