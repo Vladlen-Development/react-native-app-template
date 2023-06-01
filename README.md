@@ -1,4 +1,4 @@
-#  React Native GetGain Template
+#  React Native App Template
 
 > Template for quick start react native project
 
