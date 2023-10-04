@@ -23,5 +23,5 @@
 ## Usage
 
 ```sh
-npx react-native init MyApp --template https://gitlab.com/getgain-public/libs/react-native-getgain-template.git
+npx react-native init MyApp --template https://github.com/Vladlen-Libraries/react-native-app-template.git
 ```
