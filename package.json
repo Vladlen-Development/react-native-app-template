@@ -1,7 +1,7 @@
 {
-  "name": "react-native-getgain-template",
-  "version": "0.0.2",
-  "description": "GetGain Sample Template",
+  "name": "react-native-app-template",
+  "version": "1.0.0",
+  "description": "React Native App Template",
   "scripts": {
     "test": "exit 0"
   },
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/getgain-public/libs/react-native-getgain-template.git"
+    "url": "git+https://github.com/Vladlen-Libraries/react-native-app-template.git"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   "author": "Vladlen Kaveev <vlad737290@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/getgain-public/libs/react-native-getgain-template/issues"
+    "url": "https://github.com/Vladlen-Libraries/react-native-app-template/issues"
   },
-  "homepage": "https://gitlab.com/getgain-public/libs/react-native-getgain-template#readme"
+  "homepage": "https://github.com/Vladlen-Libraries/react-native-app-template#readme"
 }
