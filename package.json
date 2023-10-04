@@ -1,7 +1,7 @@
 {
-  "name": "react-native-app-template",
-  "version": "1.0.0",
-  "description": "React Native App Template",
+  "name": "react-native-modular-template",
+  "version": "1.0.1",
+  "description": "React Native Modular Template",
   "scripts": {
     "test": "exit 0"
   },

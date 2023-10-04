@@ -23,5 +23,5 @@
 ## Usage
 
 ```sh
-npx react-native init MyApp --template https://github.com/Vladlen-Libraries/react-native-app-template.git
+npx react-native init MyApp --template react-native-modular-template
 ```
