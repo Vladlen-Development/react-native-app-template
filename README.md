@@ -4,6 +4,7 @@
 
 ## TODO
 - [ ] Add husky library
+- [ ] Add CodePush?
 - [x] Update to react-native 0.71
 - [x] Bug fixes
 
