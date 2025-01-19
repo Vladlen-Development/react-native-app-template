@@ -1,6 +1,6 @@
 {
   "name": "react-native-modular-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native Modular Template",
   "scripts": {
     "test": "exit 0"
