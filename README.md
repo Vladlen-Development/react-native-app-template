@@ -1,12 +1,9 @@
-#  React Native App Template
+#  React Native Modular Template
 
 > Template for quick start react native project
 
 ## TODO
 - [ ] Add husky library
-- [ ] Add CodePush?
-- [x] Update to react-native 0.71
-- [x] Bug fixes
 
 ## Includes
 
