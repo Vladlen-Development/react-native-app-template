@@ -1,6 +1,6 @@
 {
   "name": "react-native-modular-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native Modular Template",
   "scripts": {
     "test": "exit 0"
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vladlen-Libraries/react-native-app-template.git"
+    "url": "git@github.com:vladlenskiy/react-native-modular-template.git"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   "author": "Vladlen Kaveev <vlad737290@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vladlen-Libraries/react-native-app-template/issues"
+    "url": "https://github.com/vladlenskiy/react-native-modular-template/issues"
   },
-  "homepage": "https://github.com/Vladlen-Libraries/react-native-app-template#readme"
+  "homepage": "https://github.com/vladlenskiy/react-native-modular-template#readme"
 }

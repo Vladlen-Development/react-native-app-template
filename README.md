@@ -2,6 +2,12 @@
 
 > Template for quick start react native project
 
+## Usage
+
+```sh
+npx @react-native-community/cli init MyApp --template react-native-modular-template
+```
+
 ## TODO
 - [ ] Add husky library
 
@@ -17,9 +23,3 @@
 - Yarn
 - Redux-Toolkit
 - Domain JS
-
-## Usage
-
-```sh
-npx react-native init MyApp --template react-native-modular-template
-```
