@@ -10,21 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "@emotion/native": "^11.10.6",
-    "@emotion/react": "^11.10.6",
-    "@react-navigation/native": "^6.1.6",
-    "@react-navigation/stack": "^6.3.16",
-    "@reduxjs/toolkit": "^1.9.3",
-    "@snap-alex/domain-js": "^8.1.2",
+    "@emotion/native": "^11.11.0",
+    "@emotion/react": "^11.14.0",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "@reduxjs/toolkit": "^2.5.0",
+    "@snap-alex/domain-js": "^11.0.2",
     "react": "18.3.1",
     "react-native": "0.76.6",
     "react-native-config": "^1.5.3",
     "react-native-gesture-handler": "^2.22.0",
-    "react-native-masked-view": "^0.2.0",
     "react-native-reanimated": "^3.16.7",
     "react-native-safe-area-context": "^5.1.0",
     "react-native-screens": "^4.5.0",
-    "react-native-svg-transformer": "^1.5.0",
     "react-redux": "^8.0.5"
   },
   "devDependencies": {
